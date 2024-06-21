@@ -1,6 +1,5 @@
 +++
-title =  "Automate Posting Hugo Blog to Social Sites...with a db"
-date = "2024-06-15"
+title =  "Automate Posting Hugo Blog to Social Sites (with a db)"
 description = "How To automate posting to social sites"
 author = "Justin Napolitano"
 tags = ['python', "hugo","programming","fail"]
