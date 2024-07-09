@@ -5,7 +5,7 @@ author = "Justin Napolitano"
 tags = ['python', "hugo","programming","fail"]
 images = ["images/feature-image.png"]
 date = "2024-06-30"
-categories = ["Portfolio"]
+categories = ["projects"]
 +++
 
 
