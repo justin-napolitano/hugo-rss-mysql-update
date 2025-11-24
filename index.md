@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - mysql database
   - python automation
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a Python script designed to automate updating a MySQL database with content
+  from a Hugo blog's RSS feed, fitting strongly with the automation family's focus on scripting to
+  automate content publishing and workflows.
 ---
 
 # Automating Hugo Blog Post Updates to MySQL
@@ -61,3 +67,4 @@ The core logic (partially shown) iterates over feed entries, extracting author a
 This project provides a foundational approach to integrate Hugo blog content with a MySQL backend using Python. It balances simplicity with extensibility, enabling further automation workflows. The use of standard libraries and environment-based configuration facilitates deployment and maintenance.
 
 Future work should focus on completing the database update logic, improving error handling, and adding testing and automation for reliability.
+
