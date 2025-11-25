@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo-rss-mysql-update
 generatedAt: '2025-11-24T21:35:07.873Z'
 source: github-auto
 summary: >-
-  This project automates scraping RSS feeds from a Hugo blog and updating a
-  MySQL database with new posts using Python.
+  This project automates scraping RSS feeds from a Hugo blog and updates a MySQL
+  database with new posts using Python.
 tags:
   - python
   - mysql
@@ -17,12 +17,12 @@ tags:
   - automation
   - feedparser
   - dotenv
-seoPrimaryKeyword: hugo rss mysql update automation
+seoPrimaryKeyword: hugo rss mysql update
 seoSecondaryKeywords:
-  - rss feed parsing
-  - mysql database integration
-  - python automation
+  - rss feed automation
+  - python mysql integration
   - hugo blog updates
+  - feedparser usage
   - environment variable management
 seoOptimized: true
 topicFamily: null
